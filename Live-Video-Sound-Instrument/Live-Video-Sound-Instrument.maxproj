@@ -11,7 +11,8 @@
                 "singleton": {
                     "bootpath": "~/Desktop/ATLS 4221 Interactive sound/ATLS-4221-Interactive-sound/Live-Video-Sound-Instrument/_DeletedItems/patchers",
                     "projectrelativepath": "./_DeletedItems/patchers"
-                }
+                },
+                "disclosed": 0
             }
         },
         "media": {
@@ -47,8 +48,7 @@
                 "kind": "audiofile",
                 "local": 1
             }
-        },
-        "code": {        }
+        }
     },
     "creationdate": 3857738235,
     "detailsvisible": 0,
@@ -57,7 +57,7 @@
     "hideprojectwindow": 0,
     "includepackages": 0,
     "layout": {    },
-    "modificationdate": 3857774867,
+    "modificationdate": 3857798139,
     "name": "Live-Video-Sound-Instrument",
     "readonly": 0,
     "searchpath": {    },

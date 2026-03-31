@@ -46,11 +46,11 @@
                 "box": {
                     "fontsize": 18.0,
                     "id": "obj-150",
-                    "linecount": 32,
+                    "linecount": 31,
                     "maxclass": "comment",
                     "numinlets": 1,
                     "numoutlets": 0,
-                    "patching_rect": [ 1942.7889402508736, 2318.1817960739136, 160.0, 650.0 ],
+                    "patching_rect": [ 1942.7889402508736, 2318.1817960739136, 165.0, 630.0 ],
                     "presentation": 1,
                     "presentation_linecount": 11,
                     "presentation_rect": [ 956.8181726932526, 511.36362981796265, 793.0, 228.0 ],
@@ -4036,6 +4036,14 @@
         ],
         "parameters": {
             "obj-250": [ "live.gain~", "live.gain~", 0 ],
+            "parameterbanks": {
+                "0": {
+                    "index": 0,
+                    "name": "",
+                    "parameters": [ "-", "-", "-", "-", "-", "-", "-", "-" ],
+                    "buttons": [ "-", "-", "-", "-", "-", "-", "-", "-" ]
+                }
+            },
             "inherited_shortname": 1
         },
         "autosave": 0
