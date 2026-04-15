@@ -657,6 +657,7 @@
                                 "filename": "02 - A Short Term Effect.flac",
                                 "filekind": "audiofile",
                                 "id": "u338003348",
+                                "selection": [ 0.6461824953445066, 0.6461824953445066 ],
                                 "loop": 0,
                                 "content_state": {                                }
                             },
@@ -721,7 +722,7 @@
                     "numoutlets": 5,
                     "outlettype": [ "signal", "signal", "signal", "", "dictionary" ],
                     "parameter_enable": 0,
-                    "patching_rect": [ 2436.5854239463806, 1210.975638628006, 592.6829409599304, 319.5122027397156 ],
+                    "patching_rect": [ 2430.0, 1242.705159187317, 592.6829409599304, 319.5122027397156 ],
                     "presentation": 1,
                     "presentation_rect": [ 784.0909016132355, 170.45454382896423, 590.2439165115356, 315.8536660671234 ],
                     "quality": "basic",
@@ -3651,7 +3652,7 @@
             {
                 "patchline": {
                     "destination": [ "obj-92", 0 ],
-                    "midpoints": [ 2446.0854239463806, 1566.0, 2382.5, 1566.0 ],
+                    "midpoints": [ 2439.5, 1566.0, 2382.5, 1566.0 ],
                     "order": 1,
                     "source": [ "obj-239", 0 ]
                 }
@@ -3671,14 +3672,14 @@
             {
                 "patchline": {
                     "destination": [ "obj-239", 0 ],
-                    "midpoints": [ 2756.2532205581665, 1197.0, 2446.0854239463806, 1197.0 ],
+                    "midpoints": [ 2756.2532205581665, 1197.0, 2439.5, 1197.0 ],
                     "source": [ "obj-261", 0 ]
                 }
             },
             {
                 "patchline": {
                     "destination": [ "obj-239", 0 ],
-                    "midpoints": [ 2839.3701028823853, 1197.0, 2446.0854239463806, 1197.0 ],
+                    "midpoints": [ 2839.3701028823853, 1197.0, 2439.5, 1197.0 ],
                     "source": [ "obj-263", 0 ]
                 }
             },
