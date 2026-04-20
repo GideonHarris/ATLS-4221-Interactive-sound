@@ -2268,7 +2268,7 @@
                     "numinlets": 2,
                     "numoutlets": 1,
                     "outlettype": [ "" ],
-                    "patching_rect": [ 1237.7359066009521, 190.56604659557343, 386.0, 218.0 ],
+                    "patching_rect": [ 816.2790405750275, 2632.558045387268, 386.0, 218.0 ],
                     "presentation": 1,
                     "presentation_rect": [ 1237.7359066009521, 190.56604659557343, 386.0, 218.0 ]
                 }
@@ -2982,6 +2982,14 @@
             "obj-41": [ "live.dial[5]", "Gain", 0 ],
             "obj-42": [ "live.dial[6]", "Amount", 0 ],
             "obj-46": [ "live.dial[7]", "Gain", 0 ],
+            "parameterbanks": {
+                "0": {
+                    "index": 0,
+                    "name": "",
+                    "parameters": [ "-", "-", "-", "-", "-", "-", "-", "-" ],
+                    "buttons": [ "-", "-", "-", "-", "-", "-", "-", "-" ]
+                }
+            },
             "inherited_shortname": 1
         },
         "autosave": 0
