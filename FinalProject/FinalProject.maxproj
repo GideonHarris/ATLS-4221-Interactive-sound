@@ -2,8 +2,8 @@
     "name": "FinalProject",
     "version": 1,
     "creationdate": 3859044722,
-    "modificationdate": 3859228775,
-    "viewrect": [ 1512.0, 34.0, 2560.0, 1372.0 ],
+    "modificationdate": 3859580826,
+    "viewrect": [ 0.0, 95.0, 1512.0, 853.0 ],
     "autoorganize": 1,
     "hideprojectwindow": 0,
     "showdependencies": 1,
@@ -16,6 +16,10 @@
                 "toplevel": 1
             },
             "Untitled Device.amxd": {
+                "kind": "maxforlive",
+                "local": 1
+            },
+            "FinalProjectAbletonPatch.amxd": {
                 "kind": "maxforlive",
                 "local": 1
             }
